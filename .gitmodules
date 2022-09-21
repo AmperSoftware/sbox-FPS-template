@@ -1,0 +1,3 @@
+[submodule "code/Libraries/FPS"]
+	path = code/Libraries/FPS
+	url = git@github.com:AmperSoftware/sbox-FPS-SDK.git
