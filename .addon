@@ -1,15 +1,14 @@
 {
-  "Title": "FPS Template",
+  "Title": "Amper's FPS SDK",
   "Type": "game",
   "Org": "local",
-  "Ident": "fps_template",
+  "Ident": "game.fps",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
   "ResourcePaths": [],
   "HasCode": true,
   "CodePath": "/code/",
-  "RootNamespace": null,
   "Metadata": {
     "MaxPlayers": 64,
     "MinPlayers": 1,
@@ -21,6 +20,9 @@
     "RankType": "None",
     "PerMapRanking": false,
     "LeaderboardType": "None",
-    "ProjectTemplate": null
+    "ProjectTemplate": {
+      "Icon": "track_changes",
+      "Order": -10
+    }
   }
 }
